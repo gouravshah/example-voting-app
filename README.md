@@ -1,5 +1,5 @@
 [![Build Status](http://139.59.113.29:8080/buildStatus/icon?job=instavote%2Fbuild)](http://139.59.113.29:8080/job/instavote/job/build/)
-[![Build Status](http://139.59.113.29:8080/buildStatus/icon?job=instavote%2Fworker-test)](http://139.59.113.29:8080/job/instavote/job/worker-test/)
+[![Build Status](http://139.59.113.29:8080/buildStatus/icon?job=instavote%2Fworker-test&subject=UnitTest)](http://139.59.113.29:8080/job/instavote/job/worker-test/)
 
 Example Voting App
 =========
